@@ -10,7 +10,7 @@
         "SHIVANSH39"
     ],
     "website": "",
-    "success_url": "https://telegram.dog/SHIVANSH39",
+    "success_url": "https://github.com/bolt9923/STRANGER-SESSION-HACK",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
@@ -22,7 +22,7 @@
         },
         "SUDOERS": {
             "description": "PEOPLE WHO YOU WANT TO ADD ACCESS TO YOUR BOT",
-            "value": "6762113050 6919199044"
+            "value": ""
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
@@ -34,12 +34,12 @@
          },
           "LOG_GROUP_ID": {
             "description": "CHANNEL ID WHERE YOUR BOT WILL SEND UPDATES ",
-            "value": "-1001766825642"
+            "value": ""
           },
       
           "MUST_JOIN": {
             "description": "FORCE SUBSCRIBE BOT EX - mastiwithfriendsx",
-            "value": "SHIVANSH474"
+            "value": ""
         }
     }
 }
